@@ -1,0 +1,40 @@
+
+
+    AnimationPool: Borde den flyttas in i objekt?
+    Flytta in i objekten. CHEKC!
+
+    AABBCollision: Borde den vara ett statiskt objekt?
+    Gör till ett objekt. CHECK!
+
+    Assets: Kan vi göra så?
+    JA!
+
+    Lagg: gör saker på GPUn, kan fungera dåligt på laptop
+    OKEJ! Skriv kanske en kommentar. CHECK!
+
+    Constanst: Får vi göra en global konstant fil? Bättre att ha på sina specifika platser?
+    OKEJ!
+
+    HelpFunctions: Kan vi göra så?
+    JA
+
+    EnvironmentManager: Statisk lista för alla ljusobjekt? dåligt? JA. FIXAT!
+
+    Hitboxes: Får de vara ha magiska nummer för pixel perfekt hitbox?
+    JA? verkar så
+
+    Initiering av GameObjekt: Får vi initiera konstanter från sub-objekten?
+    NEJ! Interface för get variabler, som därmed tvingar subklasserna att ha dem.
+    Samma sak med components och parent.
+    CHECK!
+
+
+
+    Lägg till logging
+
+    getX och getY borde slås ihop? ska vi alltid returnera en ny Point?
+
+    Får vi använda instanceof i ObjectManager (isObjectOnScreen)
+    skapa funktion i GameObject, overrida i light emitters
+
+    vilken .idea fil ska vi ha?
